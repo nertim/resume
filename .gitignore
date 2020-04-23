@@ -1,0 +1,7 @@
+*
+
+# Allow only following
+!.gitignore
+!readme.md
+!resume.tex
+!resume.pdf
