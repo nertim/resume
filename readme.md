@@ -3,8 +3,6 @@
 mitren@gmail.com :: 979-777-7513 :: [@nertim](https://twitter.com/nertim)<br/>
 [GitHub](https://github.com/nertim) :: [LinkedIn](https://linkedin.com/in/mitren) :: [Download Resume PDF](./resume.pdf)
 
-___
-
 ## Introduction
 Full stack software developer with experience throughout the entire software life cycle from design to maintenance. Passionate about learning/teaching new concepts and mentoring junior devs. I am interested in pursing a career allowing me to guide a team of individuals to solve interesting technical challenges.
 
