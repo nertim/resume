@@ -2,6 +2,7 @@
 
 mitren@gmail.com :: 979-777-7513 :: [@nertim](https://twitter.com/nertim)<br/>
 [GitHub](https://github.com/nertim) :: [LinkedIn](https://linkedin.com/in/mitren) :: [Download Resume PDF](./resume.pdf)
+
 ___
 
 ## Introduction
