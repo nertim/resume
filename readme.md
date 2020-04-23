@@ -1,26 +1,7 @@
 # Mitren Chinoy
 
-<table>
-    <tbody>
-        <tr>
-            <td>
-                mitren@gmail.com
-            </td>
-            <td>
-                979-777-7513
-            </td>
-            <td>
-                <a href-"https://github.com/nertim">https://github.com/nertim</a>
-            </td>
-            <td>
-                <a href="https://linkedin.com/in/mitren">https://linkedin.com/in/mitren</a>
-            </td>
-            <td>
-                <a href="./resume.pdf">Download PDF Resume</a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+mitren@gmail.com :: 979-777-7513 :: [@nertim](https://twitter.com/nertim)<br/>
+[GitHub](https://github.com/nertim) :: [LinkedIn](https://linkedin.com/in/mitren) :: [Download Resume PDF](./resume.pdf)
 
 ___
 
