@@ -9,7 +9,7 @@ Full stack software developer with experience throughout the entire software lif
 ## Programming languages
 Listed in order of proficiency
 - C#
-- Javascript (familiarityy with Angular and React)
+- Javascript (familiarity with Angular and React)
 - HTML
 - Python (mostly for fun/personal projects)
 - CSS
